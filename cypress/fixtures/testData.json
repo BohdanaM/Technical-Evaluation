@@ -1,0 +1,51 @@
+{
+  "login": {
+    "url": "https://animated-gingersnap-8cf7f2.netlify.app/",
+    "email": "admin",
+    "password": "password123"
+  },
+  "testCases": [
+    {
+      "description": "Test Case 1",
+      "page": "Web Application",
+      "taskName": "Implement user authentication",
+      "column": "To Do",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "description": "Test Case 2",
+      "page": "Web Application",
+      "taskName": "Fix navigation bug",
+      "column": "To Do",
+      "tags": ["Bug"]
+    },
+    {
+      "description": "Test Case 3",
+      "page": "Web Application",
+      "taskName": "Design system updates",
+      "column": "In Progress",
+      "tags": ["Design"]
+    },
+    {
+      "description": "Test Case 4",
+      "page": "Mobile Application",
+      "taskName": "Push notification system",
+      "column": "To Do",
+      "tags": ["Feature"]
+    },
+    {
+      "description": "Test Case 5",
+      "page": "Mobile Application",
+      "taskName": "Offline mode",
+      "column": "In Progress",
+      "tags": ["Feature", "High Priority"]
+    },
+    {
+      "description": "Test Case 6",
+      "page": "Mobile Application",
+      "taskName": "App icon design",
+      "column": "Done",
+      "tags": ["Design"]
+    }
+  ]
+}
